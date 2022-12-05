@@ -7,14 +7,8 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# Welcome
+Welcome to my personal website. This site is hosted somewhere on earth, probably on multiple locations, including the one that is closest from you (it's amazing isn't it?). Thank you, Netlify and Github for your free plan.
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.dev), with deployment to [Netlify](https://www.netlify.com).
+Oh and this is actually free from vendor lock-in (if I'm not lazy to backup the source code to my local machine). It means that if those companies went bankrupt, this page will still exist. Probably just with different domain address and code host.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
-
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
-
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+With that said, I hope this site will last forever.
