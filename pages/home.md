@@ -12,3 +12,7 @@ Welcome to my personal website. This site is hosted somewhere on earth, probably
 Oh and this is actually free from vendor lock-in (if I'm not lazy to backup the source code to my local machine). It means that if those companies went bankrupt, this page will still exist. Probably just with different domain address and code host.
 
 With that said, I hope this site will last forever.
+
+I﻿'m someone who code and bake, and aspiring penetration tester (people often say: hacker), and aspiring industrialist, and aspiring writer, and aspiring musician. Yep, I have ADHD. More or less, you can call me Bob.
+
+G﻿ood to see you, fellow human. And bots.
